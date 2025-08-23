@@ -1,3 +1,4 @@
-.env
+.env #VARIABLES DE ENTORNO
 test/
-env/
+env/#CARPETA 
+#
